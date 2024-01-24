@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402037587888",
+    "project_id": "appclone-2ba2c",
+    "storage_bucket": "appclone-2ba2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402037587888:android:afbf871af07e50b03d6075",
+        "android_client_info": {
+          "package_name": "com.example.appclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_dyRfrQ-b6_2pi_ZC-fc9vwdUCPOz-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402037587888:android:9983888eb4c492a03d6075",
+        "android_client_info": {
+          "package_name": "com.example.diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_dyRfrQ-b6_2pi_ZC-fc9vwdUCPOz-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
